@@ -2,7 +2,7 @@
  *
  * Created by: Pablo Carreras
  * Created on: Nov 2024
- * This program ...
+ * This program makes a sprite go around 
 */
 
 // variables
